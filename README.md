@@ -1,5 +1,4 @@
 # 23810310088-LaiNamSon-BagistoHeadless
-23810310088-LaiNamSon-BagistoHeadless
 
 # Báo Cáo Thực Hành - Bagisto Headless Commerce
 
