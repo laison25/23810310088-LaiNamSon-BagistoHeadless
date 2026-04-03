@@ -107,3 +107,8 @@ Trong bài thực hành, khi dùng GraphQL, em chỉ yêu cầu đúng 5 trườ
 Để thay đổi giá của một sản phẩm, em sẽ dùng **Mutation**.
 
 Trong GraphQL, **Query** chỉ được dùng để **đọc dữ liệu** (read-only), không làm thay đổi trạng thái hệ thống. Còn **Mutation** được dùng cho các thao tác **ghi, cập nhật hoặc xóa dữ liệu** trên server. Vì thay đổi giá là hành động cập nhật dữ liệu trong database, nên bắt buộc phải dùng Mutation. Ví dụ: `mutation { updateProduct(id: 1, input: { price: 299000 }) { id name price } }`.
+
+
+https://github.com/user-attachments/assets/264da49e-2621-47cb-b9ed-1b2be5331f99
+
+
